@@ -1,21 +1,19 @@
-# Documentação da Arquitetura (Java)
+# Arquitetura de Referência (Java)
 
 * Visão Geral
 * Camada de Persistência
 * Camada de Negócio
 * Rotinas Batch
 
-# Documentação da Infraestrutura
+# Infraestrutura (AWS)
 
 * Visão Geral
-* Estrutura base na AWS
 * Cluster de Storage (Gluster)
 * Cluster de Aplicação (Docker Swarm)
-* Balanceamento de Carga (HAProxy)
-* SSL
+* Balanceamento de Carga e SSL (HAProxy)
 * Postfix
 
 # DevOps
 
 * GitFlow
-* CI/DC
+* CI/CD
