@@ -5,13 +5,14 @@
 * Camada de Negócio
 * Rotinas Batch
 
-# Infraestrutura (AWS)
+# Infraestrutura
 
 * Visão Geral
-* Cluster de Storage (Gluster)
-* Cluster de Aplicação (Docker Swarm)
-* Balanceamento de Carga e SSL (HAProxy)
-* Postfix
+* Estrutura AWS
+* Storage Distribuído
+* Cluster de Aplicação
+* Balanceamento de Carga e SSL
+* Mensageria
 
 # DevOps
 
